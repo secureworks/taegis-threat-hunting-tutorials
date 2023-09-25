@@ -1,0 +1,6 @@
+taegis-sdk-python
+taegis-magic
+nbformat
+papermill
+pandas
+notebook
